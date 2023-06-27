@@ -135,21 +135,19 @@ ANSWER: From our result, the Bikes take the longest periods to produce with an a
 ## PHASE 5: INSIGHTS AND RECOMMENDATIONS
 ## INSIGHTS
 
-A approximately total of $110M was generated as revenue across 4 years
-In spite of the most orders placed for Accessories, the Bikes category proved to be the most valuable product category in terms of revenue generated accounting for approximately 86% of total revenue.
-The most profitable product categories are clothing and accessories
-Overall, there was an inconsistent sales level across the years. There are valid reasons for this since the products sold by Adventure Works are seasonal products. Total Sales trended down, resulting in a 90.27% decrease between May 2011 and June 2014. Total Sales started trending down on March 2014, falling by 99.32% (7.17M) in 3 months. Total Sales trended up between March 2013 and January 2014 with a rise of 878K but had a significant change in trend and dropped by 7.17M starting March 2014. Total Sales dropped from 7.2M to 49k during its steepest decline between March 2014 and June 2014. where our data for sales ended. For our revenue distribution by continent, North America generated the highest revenue at 79.35M accounting for 72.24% of total revenue, followed by Europe at 19.84M and Pacific at 10.66M.
-The territory with the highest level of revenue was North America, garnering $79.35M (which accounted for 72.24% of total sales)
-Southwest, Central, Northwest US, and Canada proved to be the best contributors to revenue and orders placed which are directly seen as major players in the North American territory
-Clothing and Accessories pose the best potential in terms of profitability and market expansion
-Australia has the greatest potential in relation to the frequency or concentration of purchases due to the high consciousness of bike-related products by customers
-Water Bottle, Logo Caps, and Patch kits are the 3 most popular products amongst customers
-The months of March, May, July, and October proved to be the best months in relation to sales over the years. The month of March garnered the highest revenue with 13.6million dollars
-The most popular products differ across regions, especially in the central, Northeast, and SouthEast US. In these regions, the most popular products are the AWC logo Caps and for other sub-regions, it’s the Water Bottle. Customers from the US (central, NorthEast, and southeast) prefer to purchase face caps, especially during peak periods in the summer when the weather is hot and the sun is up. However, customers from other regions might prefer water bottles to help them stay hydrated with water intake.
+1. Approximately total of $110M was generated as revenue across 4 years
+2. In spite of the most orders placed for Accessories, the Bikes category proved to be the most valuable product category in terms of revenue generated accounting for approximately 86% of total revenue.
+3. The most profitable product categories are clothing and accessories
+4. Overall, there was an inconsistent sales level across the years. There are valid reasons for this since the products sold by Adventure Works are seasonal products. Total Sales trended down, resulting in a 90.27% decrease between May 2011 and June 2014. Total Sales started trending down on March 2014, falling by 99.32% (7.17M) in 3 months. Total Sales trended up between March 2013 and January 2014 with a rise of 878K but had a significant change in trend and dropped by 7.17M starting March 2014. Total Sales dropped from 7.2M to 49k during its steepest decline between March 2014 and June 2014. where our data for sales ended. For our revenue distribution by continent, North America generated the highest revenue at 79.35M accounting for 72.24% of total revenue, followed by Europe at 19.84M and Pacific at 10.66M.
+5. The territory with the highest level of revenue was North America, garnering $79.35M (which accounted for 72.24% of total sales)
+6. Southwest, Central, Northwest US, and Canada proved to be the best contributors to revenue and orders placed which are directly seen as major players in the North American territory
+7. Clothing and Accessories pose the best potential in terms of profitability and market expansion
+8. Australia has the greatest potential in relation to the frequency or concentration of purchases due to the high consciousness of bike-related products by customers
+9. Water Bottle, Logo Caps, and Patch kits are the 3 most popular products amongst customers
+10. The months of March, May, July, and October proved to be the best months in relation to sales over the years. The month of March garnered the highest revenue with 13.6million dollars
+11. The most popular products differ across regions, especially in the central, Northeast, and SouthEast US. In these regions, the most popular products are the AWC logo Caps and for other sub-regions, it’s the Water Bottle. Customers from the US (central, NorthEast, and southeast) prefer to purchase face caps, especially during peak periods in the summer when the weather is hot and the sun is up. However, customers from other regions might prefer water bottles to help them stay hydrated with water intake.
 It’s also possible that face caps are more fashionable or trendy in these regions (central, Northeast, and SouthEast US), leading to higher sales. Fashion trends can vary regionally, so it’s possible that face caps are simply more popular in these areas. Other reasons for high water bottle purchases from other regions could be that these regions have a higher percentage of outdoor enthusiasts who engage in activities like hiking, camping, and cycling.
-
-It is important to note that Other factors could be influencing the popularity of water bottles, such as cultural preferences or local climate variations. It’s also possible that the data simply reflects the specific customer demographics of the regions, rather than any general trends
-related to climate or geography. To draw more definitive conclusions about these factors, additional data, research, and data analysis would be needed.
+12. It is important to note that Other factors could be influencing the popularity of water bottles, such as cultural preferences or local climate variations. It’s also possible that the data simply reflects the specific customer demographics of the regions, rather than any general trends related to climate or geography. To draw more definitive conclusions about these factors, additional data, research, and data analysis would be needed.
 
 ## Recommendations
 1. Austalia poses great potential in terms of sales. Efficient and effective marketing strategies need to be implemented to serve Australians by improving product variation, and incorporating innovation into clothing, accessories, and bikes, as the region has the lowest Average Order Value and sales.
@@ -164,10 +162,10 @@ related to climate or geography. To draw more definitive conclusions about these
 
 ## REFERENCES:
 
-https://www.ibisworld.com/au/industry/clothing-retailing/407/
-https://discerningcyclist.com/how-many-bicycles-in-world/#:~:text=break%20it%20down%E2%80%A6-,Which%20Country%20Has%20the%20Most%20Bicycles%3F%20%5BPer%20Capita%5D,any%20country%20in%20the%20world
-https://www.google.com/amp/s/www.businessinsider.com/copenhagen-has-more-bikes-than-cars-2017-3%3famp
-https://medium.com/r/?url=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26source%3Dweb%26rct%3Dj%26url%3Dhttps%3A%2F%2Fgithub.com%2FMicrosoft%2Fsql-server-samples%2Freleases%2Fdownload%2Fadventureworks%2FAdventureWorks2019.bak%26ved%3D2ahUKEwia_NCiz9j-AhWNasAKHUsDC5EQFnoECDMQAQ%26usg%3DAOvVaw2o-7zpr66JC5qgwfhuMx7f
+1. https://www.ibisworld.com/au/industry/clothing-retailing/407/
+2. https://discerningcyclist.com/how-many-bicycles-in-world/#:~:text=break%20it%20down%E2%80%A6-,Which%20Country%20Has%20the%20Most%20Bicycles%3F%20%5BPer%20Capita%5D,any%20country%20in%20the%20world
+3. https://www.google.com/amp/s/www.businessinsider.com/copenhagen-has-more-bikes-than-cars-2017-3%3famp
+4. https://medium.com/r/url=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26source%3Dweb%26rct%3Dj%26url%3Dhttps%3A%2F%2Fgithub.com%2FMicrosoft%2Fsql-server-samples%2Freleases%2Fdownload%2Fadventureworks%2FAdventureWorks2019.bak%26ved%3D2ahUKEwia_NCiz9j-AhWNasAKHUsDC5EQFnoECDMQAQ%26usg%3DAOvVaw2o-7zpr66JC5qgwfhuMx7f
 
 
 
